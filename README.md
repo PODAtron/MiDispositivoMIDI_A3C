@@ -3,7 +3,7 @@ This repository contains code that can be uploaded to the MiDispositivoMIDI Rev 
 
 # Important
 You will need the following libraries to make the code work: MIDI USB and Adafruit NeoPixel
-https://github.com/arduino-libraries/MIDIUSB
-https://github.com/adafruit/Adafruit_NeoPixel
+* https://github.com/arduino-libraries/MIDIUSB
+* https://github.com/adafruit/Adafruit_NeoPixel
 
 # Section
